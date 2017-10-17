@@ -34,7 +34,7 @@ The project can be opened and run in the `Visual Studio Community` editor. Downl
 
 Open `NumberConverter.cs` in the `NumberConverter` project and edit the file.
 
-Right click on the `NumberConverterTest` class in the `NumberConverter.Test` project and select
+Right click on the `NumberConverterTest.cs` file in the `NumberConverter.Test` project and select
 ```
 Run Unit Tests
 ``` 
