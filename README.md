@@ -6,6 +6,7 @@ We have implemented it in:
 * [Java with JUnit](https://github.com/RappidDevelopment/NumberConverterKata/tree/master/java)
 * [JavaScript with Jest](https://github.com/RappidDevelopment/NumberConverterKata/tree/master/javascript)
 * [C# with NUnit](https://github.com/RappidDevelopment/NumberConverterKata/tree/master/csharp)
+* [Elixir with ExUnit](https://github.com/RappidDevelopment/NumberConverterKata/tree/master/elixir)
 
 The project is meant to practice the repetition of the three very short development cycles of TDD:  
 
@@ -29,6 +30,3 @@ Example:
 | `701020`      | `seven hundred one thousand twenty`|
 
 There are `14` test-cases already provided, the first `13` skipped and will not be run. Introduce each test case one by one as each one passes.
-
-
- 
