@@ -1,10 +1,9 @@
-﻿﻿using NUnit.Framework;
-using NumberConverter;
+﻿using NUnit.Framework;
 
 namespace NumberConverter.Test
 {
     [TestFixture]
-    public class NumberConverter
+    public class NumberConverterTest
     {
         private NumberConverter subject;
 

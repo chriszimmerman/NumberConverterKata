@@ -3,7 +3,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="NumberConverterTest.cs">
     <Files>
       <File FileName="NumberConverterImplementation.cs" Line="5" Column="33" />
-      <File FileName="NumberConverterTest.cs" Line="30" Column="9" />
+      <File FileName="NumberConverterTest.cs" Line="15" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

@@ -1,9 +1,9 @@
-
+﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter.Test", "NumberConverter.Test.csproj", "{5A56B406-20F8-4855-AB14-D15C2975690B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter.Test", "NumberConverter.Test\NumberConverter.Test.csproj", "{CA6F84C0-2764-42C0-9091-14F97626B6CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter", "NumberConverter.csproj", "{9821B862-CF4D-4E9A-A421-B5DF3836F16C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberConverter", "NumberConverter\NumberConverter.csproj", "{5128FE80-5948-4030-AE37-75C77358651C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5A56B406-20F8-4855-AB14-D15C2975690B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5A56B406-20F8-4855-AB14-D15C2975690B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5A56B406-20F8-4855-AB14-D15C2975690B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5A56B406-20F8-4855-AB14-D15C2975690B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9821B862-CF4D-4E9A-A421-B5DF3836F16C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9821B862-CF4D-4E9A-A421-B5DF3836F16C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9821B862-CF4D-4E9A-A421-B5DF3836F16C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9821B862-CF4D-4E9A-A421-B5DF3836F16C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA6F84C0-2764-42C0-9091-14F97626B6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA6F84C0-2764-42C0-9091-14F97626B6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA6F84C0-2764-42C0-9091-14F97626B6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA6F84C0-2764-42C0-9091-14F97626B6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5128FE80-5948-4030-AE37-75C77358651C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5128FE80-5948-4030-AE37-75C77358651C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5128FE80-5948-4030-AE37-75C77358651C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5128FE80-5948-4030-AE37-75C77358651C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
