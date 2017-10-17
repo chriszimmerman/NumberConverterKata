@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5A56B406-20F8-4855-AB14-D15C2975690B}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.NumberConverter.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberConverterTest.cs">
+    <Files>
+      <File FileName="NumberConverterImplementation.cs" Line="5" Column="33" />
+      <File FileName="NumberConverterTest.cs" Line="30" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NumberConverter" expanded="True">
+            <Node name="NumberConverter" expanded="True" />
+            <Node name="NumberConverter.Test" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" expanded="True" />
+              <Node name="NumberConverterTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
